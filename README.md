@@ -2,4 +2,4 @@
 Cheapest Flight bot is telegram bot with ID @cheapestflightbot for Iranian people who use plane for trip. this Bot helps people who are in Telegram app to find cheapest flight. in addition to, Bot notifies every one hour for cheapest flight on Telegram. 
 I used Laravel Framework to create Bot. my codes are based on Microservice concept.
 my laravel version is 5.5
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text]https://en.wikipedia.org/wiki/Telegram_(service)
